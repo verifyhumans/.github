@@ -2,6 +2,7 @@
 
 <p> Verify Humans exist to defend the planet from the most cybersecurity attacks we have not yet seen. Today it takes seconds to generate audio identicaly to anyone and 30 minutes to impersonate anyone with auio and video.
 <br>
+<br>
 Due to this advancement in AI we are now seeing crimes of all kinds happening and people losing their life savings and more because of it. Its now clear we need an identification layer for the entire internet and we hope to build that with Verify Humans
  </p>
 
